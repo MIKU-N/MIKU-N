@@ -1,4 +1,6 @@
-- One Trash.
+- No Bad
+- No Time
+- No Life
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miku-n)](https://github.com/anuraghazra/github-readme-stats)
 <!---
