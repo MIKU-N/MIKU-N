@@ -1,10 +1,10 @@
 - No Bad
 - No Time
 - No Life
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/miku-n/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miku-n&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/miku-n/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miku-n&repo=convoychat" />
 </a>
 
